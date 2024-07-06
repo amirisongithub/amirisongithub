@@ -9,7 +9,15 @@ The best way to financially support Palestine is by donating directly to one of 
 - [JORDAN 🇯🇴](https://mapjordan.net/en/donate-now)
 - [SAUDI ARABIA 🇸🇦](https://sahem.ksrelief.org/Pages/ProgramDetails/1ca8852b-9e6d-ee11-b83f-005056ac5498)
 - [BAHRAIN 🇧🇭](https://www.pss-bh.org/en/home/)
+- [US 🇺🇸](https://irusa.org/middle-east/)
+- [UK 🇬🇧](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
+You can find more country's by googling the following sentences (replace "COUNTRY" with your country):
+Donate to palestine COUNTRY
+COUNTRY palestine
+COUNTRY palestine donation
+donate to palestine from COUNTRY
 
+NOTE: PLEASE DO SOME RESEARCH ON THE INSTITUTIONS YOU DONATE TO
 **Donate to associations acting in Palestine**
 
 - [Doctors without borders](https://donate.doctorswithoutborders.org/secure/rr-donate-monthly-web?source=ADU2011U0W46) : Provides medical help to palestinians.
