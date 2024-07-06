@@ -5,6 +5,7 @@
 **Donate via trusted institutions**
 
 The best way to financially support Palestine is by donating directly to one of the trusted institutions in your country.
+- [UAE 🇦🇪](https://www.emiratesrc.ae/donate/Default_en.aspx?prm=PHEALTH), scroll down until you see "Relieving Palestine" and then click on it to donate
 
 **Donate to associations acting in Palestine**
 
@@ -12,7 +13,6 @@ The best way to financially support Palestine is by donating directly to one of 
 - [WFP - World Food Programme](https://donate.wfp.org/1244/donation/single/?campaign=3493) : Provides food to palestinians.
 - [Palestine red crescent society](https://www.palestinercs.org/en/Donation) : Provides medical help to palestinians.
 - [UNRWA - United Nations Relief and Works](https://donate.unrwa.org/-landing-page/en_EN) : Provides food and cash assistance to palestinians.
-- [Save the children](https://donate.savethechildren.org/en) : Provides protection for children.
 - [Alkhidmat](https://alkhidmat.org/donate) : Provides food and medical help to palestinians.
 
 **Other way to support**
