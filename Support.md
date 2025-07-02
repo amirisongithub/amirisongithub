@@ -12,7 +12,7 @@ The best way to financially support Palestine is by donating directly to one of 
 - [US 🇺🇸](https://www.healpalestine.org/)
 - [UK 🇬🇧](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
 
-You can find more country's by googling the following sentences (replace "COUNTRY" with your country):
+You can find more countrys by searching the following sentences (replace "COUNTRY" with your country):
 - Donate to palestine COUNTRY
 - COUNTRY palestine
 - COUNTRY palestine donation
